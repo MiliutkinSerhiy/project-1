@@ -48,3 +48,21 @@
 /*----------------------Section Hero-----------------------*/
 .hero {
 }
+
+.nike {
+width: 1440px;
+height: 600px;
+  background-image: url(./images/fon.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.revo {
+  width: 1440px;
+  height: 532px;
+  background-image: url(./images/fon2.jpg);
+}
+.Order {
+  width: 1440px;
+  height: 510px;
+  background-image: url(./images/fon3.png) ;
+}
